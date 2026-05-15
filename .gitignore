@@ -6,3 +6,7 @@ venv/
 *.egg-info/
 dist/
 build/
+node_modules/
+.vite/
+*.log
+.DS_Store
